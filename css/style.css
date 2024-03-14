@@ -35,7 +35,7 @@
 }
 
 
-#linkedin {
+.span-contact {
     display: flex;
 }
 
@@ -44,7 +44,6 @@
     text-align: left;
     margin-left: 20px;
     border-radius: 50%;
-    width: 50px;
 }
 
 .contact-images {
